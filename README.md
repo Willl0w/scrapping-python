@@ -23,8 +23,9 @@ This project contains a Python web scraper that extracts data from websites.
    ```shell
    cd scrapping-python
    ```
+2. CHange the column name, urls for your usage and the inside of the function scrapping
 
-2. Run the scraper:
+3. Run the scraper:
 
    ```shell
    python scrapper.py
